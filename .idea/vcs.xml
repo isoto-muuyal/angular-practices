@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/homework-directive" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework-forms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myForms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practices" vcs="Git" />
+  </component>
+</project>
