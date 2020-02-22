@@ -1,0 +1,26 @@
+<div class="divSize">
+  <h1>Favor de introducir los valores requeridos</h1>
+  <form formGroup="form">
+    <div class="form-group">
+      <label for="monthlyPention">Pensión deseada mensual</label>
+      <input
+        type="text"
+        id="monthlyPention"
+        formControlName="monthlyPention"
+        class="form-control"
+        #monthlyPention>
+      <!-- Warning definitions -->
+      <div></div>
+    </div>
+    <div class="form-group">
+      <label for="age">Edad</label>
+      <input
+        id="age"
+        type="text"
+        formControlName="age"
+        class="form-control"
+        #age>
+    </div>
+    <button class="btn btn-primary" type="submit" (click)="onClick(monthlyPention, age)">Enviar</button>
+  </form>
+</div>

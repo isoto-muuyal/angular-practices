@@ -1,0 +1,10 @@
+.divSize {
+   background-color: white;
+   border-color: red;
+   border-width: 30px;
+   width: 500px;
+   color: #00A2FF;
+   left-padding: 30px;
+   padding: 10px;
+   corner: round;
+}
